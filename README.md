@@ -1,7 +1,8 @@
 # ESTUDIO-DEL-ARTE
 ESTUDIO DEL ARTE DE INVESTIGACION DE ROBOTICA INDUSTRIAL EN ECUADOR COMPARADA A NIVEL GLOBAL
+								
 		Estado Actual de la Robótica a Nivel Global 			Investigaciones Previas sobre Robótica en Ecuador			
 Artículo	Año de implementación	Tendencias actuales en la adopción de la robótica en la industria global	Desafíos específicos que enfrenta la industria global en la implementación de la robótica	Aplicaciones especificas	Tendencias actuales en la adopción de la robótica en la industria global	Desafíos específicos que enfrenta la industria ecuatoriana en la implementación de la robótica	Brechas tecnológicas	Link
 INDUSTRY 4.0 A review on industrial automation and robotic	2016	Robótica industrial, en la nube, médicos, organizaciones de robótica, y el potencial grande que tiene malasia	Materiales, el problema energético, interacción social.	automatizacion industrial, agricola	Automatizacion a nivel muy bajo	Falta de conocimientos y capacitaciones	No hay inversion en IT y Robotica	https://www.researchgate.net/profile/Kulvir-Singh/post/Could-you-please-help-me-about-History-of-industry-40-in-Malaysia/attachment/5a5d9a084cde266d58835b28/AS%3A583311556263937%401516083720944/download/industry4.0ReviewOthman.pdf
 ANÁLISIS DEL IMPACTO DEL MODELO DE INDUSTRIA 4.0 APLICADA A LA PRODUCCIÓN DE LA LÍNEA MARRÓN EN LA INDUSTRIA ECUATORIANA	2019	tecnologias de conexión			nube	Bajos niveles de productividad, industrias	falta de innovación, alto sesgo de informalidad donde los incentivos a la mejora productiva son débiles y falta de desarrollo de capacidades y recursos productivos	https://repositorio.ug.edu.ec/server/api/core/bitstreams/abf7503e-9328-480d-906f-af73fb689047/content
-![image](https://github.com/HolgerCG/ESTUDIO-DEL-ARTE/assets/108628020/51185522-5733-4abf-bb26-e541c212bdcc)
+![image](https://github.com/HolgerCG/ESTUDIO-DEL-ARTE/assets/108628020/88fcdb5b-bea4-407e-b966-69c99f1bbe74)
